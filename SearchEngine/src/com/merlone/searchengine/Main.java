@@ -6,7 +6,6 @@ public class Main {
     
         SearchEngine form = new SearchEngine();
         form.setVisible(true);
-    
     }
     
 }
